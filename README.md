@@ -1,5 +1,13 @@
 # test
-test:
-this is my readme file
 
-co tam slychac?
+This is project about ...
+
+Main features of application:
+
+* ...
+
+## Technology
+
+That application use following technology:
+
+* ...
